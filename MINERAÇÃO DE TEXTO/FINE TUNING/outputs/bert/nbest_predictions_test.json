@@ -1,0 +1,282 @@
+{
+    "00014": [
+        {
+            "text": "Meus favoritos at\u00e9 agora incluem sushi, tacos e lasanha. Tamb\u00e9m gosto de experimentar diferentes tipos de caf\u00e9s especiais.",
+            "probability": 0.23787629185578077,
+            "start_logit": 1.013716459274292,
+            "end_logit": 0.9931080341339111
+        },
+        {
+            "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais. Meus favoritos at\u00e9 agora incluem sushi, tacos e lasanha. Tamb\u00e9m gosto de experimentar diferentes tipos de caf\u00e9s especiais.",
+            "probability": 0.21011411471991573,
+            "start_logit": 0.8896164894104004,
+            "end_logit": 0.9931080341339111
+        },
+        {
+            "text": "Meus favoritos at\u00e9 agora incluem sushi, tacos e lasanha.",
+            "probability": 0.20281544157688328,
+            "start_logit": 1.013716459274292,
+            "end_logit": 0.8336536884307861
+        },
+        {
+            "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais. Meus favoritos at\u00e9 agora incluem sushi, tacos e lasanha.",
+            "probability": 0.1791451624960246,
+            "start_logit": 0.8896164894104004,
+            "end_logit": 0.8336536884307861
+        },
+        {
+            "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais.",
+            "probability": 0.154734575261331,
+            "start_logit": 0.8896164894104004,
+            "end_logit": 0.6871684789657593
+        },
+        {
+            "text": "Tamb\u00e9m gosto de experimentar diferentes tipos de caf\u00e9s especiais.",
+            "probability": 0.006704293406398194,
+            "start_logit": -2.555286169052124,
+            "end_logit": 0.9931080341339111
+        },
+        {
+            "text": "at\u00e9 agora incluem sushi, tacos e lasanha. Tamb\u00e9m gosto de experimentar diferentes tipos de caf\u00e9s especiais.",
+            "probability": 0.004644380076042768,
+            "start_logit": -2.9223763942718506,
+            "end_logit": 0.9931080341339111
+        },
+        {
+            "text": "at\u00e9 agora incluem sushi, tacos e lasanha.",
+            "probability": 0.003959839749581172,
+            "start_logit": -2.9223763942718506,
+            "end_logit": 0.8336536884307861
+        },
+        {
+            "text": "",
+            "probability": 5.900858042331878e-06,
+            "start_logit": -3.8606395721435547,
+            "end_logit": -4.736944198608398
+        }
+    ],
+    "00015": [
+        {
+            "text": "at\u00e9",
+            "probability": 0.8404450122482895,
+            "start_logit": 2.170750617980957,
+            "end_logit": 3.0323843955993652
+        },
+        {
+            "text": "at\u00e9 agora incluem sushi, tacos e lasanha. Tamb\u00e9m gosto de experimentar diferentes tipos de caf\u00e9s especiais.",
+            "probability": 0.06749940956519804,
+            "start_logit": 2.170750617980957,
+            "end_logit": 0.5105717182159424
+        },
+        {
+            "text": "at\u00e9 agora incluem sushi, tacos e lasanha.",
+            "probability": 0.05672342934822821,
+            "start_logit": 2.170750617980957,
+            "end_logit": 0.33664020895957947
+        },
+        {
+            "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais. Meus favoritos at\u00e9",
+            "probability": 0.027840288269963185,
+            "start_logit": -1.236696720123291,
+            "end_logit": 3.0323843955993652
+        },
+        {
+            "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais. Meus favoritos at\u00e9 agora incluem sushi, tacos e lasanha. Tamb\u00e9m gosto de experimentar diferentes tipos de caf\u00e9s especiais.",
+            "probability": 0.0022359618927600437,
+            "start_logit": -1.236696720123291,
+            "end_logit": 0.5105717182159424
+        },
+        {
+            "text": "internacionais. Meus favoritos at\u00e9",
+            "probability": 0.002094548271107307,
+            "start_logit": -3.823843002319336,
+            "end_logit": 3.0323843955993652
+        },
+        {
+            "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais. Meus favoritos at\u00e9 agora incluem sushi, tacos e lasanha.",
+            "probability": 0.0018790005315053582,
+            "start_logit": -1.236696720123291,
+            "end_logit": 0.33664020895957947
+        },
+        {
+            "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais.",
+            "probability": 0.0012814467819159436,
+            "start_logit": -1.236696720123291,
+            "end_logit": -0.04611005634069443
+        },
+        {
+            "text": "",
+            "probability": 9.030910322782982e-07,
+            "start_logit": -3.7731845378875732,
+            "end_logit": -4.767299175262451
+        }
+    ],
+    "00016": [
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias",
+            "probability": 0.38343513629289155,
+            "start_logit": 0.3106091618537903,
+            "end_logit": 2.6909899711608887
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adi\u00e7\u00f5es para minha cole\u00e7\u00e3o.",
+            "probability": 0.14654914533016966,
+            "start_logit": 0.3106091618537903,
+            "end_logit": 1.7291803359985352
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias",
+            "probability": 0.14376126946641232,
+            "start_logit": -0.670407235622406,
+            "end_logit": 2.6909899711608887
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial.",
+            "probability": 0.12682074461975293,
+            "start_logit": 0.3106091618537903,
+            "end_logit": 1.5845941305160522
+        },
+        {
+            "text": "v\u00e1rias",
+            "probability": 0.06156998330047535,
+            "start_logit": -1.5183868408203125,
+            "end_logit": 2.6909899711608887
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adi\u00e7\u00f5es para minha cole\u00e7\u00e3o.",
+            "probability": 0.054945645763120235,
+            "start_logit": -0.670407235622406,
+            "end_logit": 1.7291803359985352
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial.",
+            "probability": 0.047548879890038816,
+            "start_logit": -0.670407235622406,
+            "end_logit": 1.5845941305160522
+        },
+        {
+            "text": "Meu acervo inclui moedas de v\u00e1rias",
+            "probability": 0.035360544635595605,
+            "start_logit": -2.072964668273926,
+            "end_logit": 2.6909899711608887
+        },
+        {
+            "text": "",
+            "probability": 8.650701543611986e-06,
+            "start_logit": -3.362786293029785,
+            "end_logit": -4.33489990234375
+        }
+    ],
+    "00017": [
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adi\u00e7\u00f5es para minha cole\u00e7\u00e3o.",
+            "probability": 0.4062610740734551,
+            "start_logit": 7.0427165031433105,
+            "end_logit": 2.082188129425049
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial.",
+            "probability": 0.37394400913708187,
+            "start_logit": 7.0427165031433105,
+            "end_logit": 1.9992982149124146
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas.",
+            "probability": 0.20917399707108958,
+            "start_logit": 7.0427165031433105,
+            "end_logit": 1.418358564376831
+        },
+        {
+            "text": "Tenho",
+            "probability": 0.005570943452024354,
+            "start_logit": 7.0427165031433105,
+            "end_logit": -2.2072434425354004
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu",
+            "probability": 0.002548625876942585,
+            "start_logit": 7.0427165031433105,
+            "end_logit": -2.989253520965576
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias",
+            "probability": 0.00227914832626063,
+            "start_logit": 7.0427165031433105,
+            "end_logit": -3.101006031036377
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adi\u00e7\u00f5es para minha cole\u00e7\u00e3o.",
+            "probability": 0.00011569795743163392,
+            "start_logit": -1.1210517883300781,
+            "end_logit": 2.082188129425049
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial.",
+            "probability": 0.0001064944707036689,
+            "start_logit": -1.1210517883300781,
+            "end_logit": 1.9992982149124146
+        },
+        {
+            "text": "",
+            "probability": 9.635010517423779e-09,
+            "start_logit": -3.8160219192504883,
+            "end_logit": -4.616176605224609
+        }
+    ],
+    "00018": [
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adi\u00e7\u00f5es para minha cole\u00e7\u00e3o.",
+            "probability": 0.3440751218393279,
+            "start_logit": 2.810089588165283,
+            "end_logit": 1.9457358121871948
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial.",
+            "probability": 0.30879539084133295,
+            "start_logit": 2.810089588165283,
+            "end_logit": 1.837554693222046
+        },
+        {
+            "text": "Tenho um hobby de colecionar moedas antigas.",
+            "probability": 0.17475425744035153,
+            "start_logit": 2.810089588165283,
+            "end_logit": 1.2682565450668335
+        },
+        {
+            "text": "Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adi\u00e7\u00f5es para minha cole\u00e7\u00e3o.",
+            "probability": 0.08758920865637128,
+            "start_logit": 1.441887378692627,
+            "end_logit": 1.9457358121871948
+        },
+        {
+            "text": "Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial.",
+            "probability": 0.0786082521047755,
+            "start_logit": 1.441887378692627,
+            "end_logit": 1.837554693222046
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adi\u00e7\u00f5es para minha cole\u00e7\u00e3o.",
+            "probability": 0.0025681013556923043,
+            "start_logit": -2.0876035690307617,
+            "end_logit": 1.9457358121871948
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas. Meu acervo inclui moedas de v\u00e1rias \u00e9pocas e pa\u00edses, com destaque para algumas pe\u00e7as raras da era imperial.",
+            "probability": 0.00230478116991404,
+            "start_logit": -2.0876035690307617,
+            "end_logit": 1.837554693222046
+        },
+        {
+            "text": "um hobby de colecionar moedas antigas.",
+            "probability": 0.00130432750571004,
+            "start_logit": -2.0876035690307617,
+            "end_logit": 1.2682565450668335
+        },
+        {
+            "text": "",
+            "probability": 5.590865245238419e-07,
+            "start_logit": -3.8106276988983154,
+            "end_logit": -4.763613224029541
+        }
+    ]
+}

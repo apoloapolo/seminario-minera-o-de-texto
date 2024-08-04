@@ -1,0 +1,230 @@
+[
+    {
+        "context": "Dia 01/08/2024 eu passei muita raiva fazendo o código de fine-tuning, as coisas tavam dando muito errado!",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Quando eu passei raiva com fine-tuning?",
+                "answers": [
+                    {
+                        "text": "Dia 01/08/2024",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "O que aconteceu dia 01/08/2024?",
+                "answers": [
+                    {
+                        "text": "eu passei muita raiva fazendo o código de fine-tuning",
+                        "answer_start": 15
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "Por que eu tava passando raiva fazendo código de fine-tuning?",
+                "answers": [
+                    {
+                        "text": "As coisas tavam dando muito errado",
+                        "answer_start": 70
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Eu estava muito doente no dia 31/07/2023, tive que passar o dia todo acamado, faltei até o trabalho e a faculdade.",
+        "qas": [
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "Quando eu estava muito doente?",
+                "answers": [
+                    {
+                        "text": "no dia 31/07/2023",
+                        "answer_start": 23
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "Que dia eu tive que faltar o trabalho e faculdade por estar doente?",
+                "answers": [
+                    {
+                        "text": "no dia 31/07/2023",
+                        "answer_start": 23
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "Em julho, eu faltei algum dia o trabalho?",
+                "answers": [
+                    {
+                        "text": "no dia 31/07/2023",
+                        "answer_start": 23
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "O que aconteceu no dia 31/07/2023?",
+                "answers": [
+                    {
+                        "text": "Eu estava muito doente no dia 31/07/2023, tive que passar o dia todo acamado, faltei até o trabalho e a faculdade.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "É muito bom quando os códigos funcionam de primeira, uma sensação de muito prazer e de inteligência toma conta do ar, pena que nunca me aconteceu.",
+        "qas": [
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "O que é muito bom quando funciona de primeira?",
+                "answers": [
+                    {
+                        "text": "os códigos",
+                        "answer_start": 19
+                    }
+                ]
+            },
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "Qual a sensação de quando um código funciona de primeira?",
+                "answers": [
+                    {
+                        "text": "uma sensação de muito prazer e de inteligência",
+                        "answer_start": 53
+                    }
+                ]
+            },
+            {
+                "id": "00010",
+                "is_impossible": false,
+                "question": "O que nunca me aconteceu em relação a códigos?",
+                "answers": [
+                    {
+                        "text": "",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Eu moro em uma cidade vibrante chamada São Paulo, onde a vida cultural é muito rica. Nas horas vagas, gosto de visitar museus e participar de eventos locais. São Paulo é conhecida por seu trânsito intenso e por ter uma grande diversidade de restaurantes.",
+        "qas": [
+            {
+                "id": "00011",
+                "is_impossible": false,
+                "question": "Onde você mora?",
+                "answers": [
+                    {
+                        "text": "Eu moro em uma cidade vibrante chamada São Paulo.",
+                        "answer_start": -1
+                    }
+                ]
+            },
+            {
+                "id": "00012",
+                "is_impossible": false,
+                "question": "O que eu gosto de fazer nas horas vagas?",
+                "answers": [
+                    {
+                        "text": "Nas horas vagas, gosto de visitar museus e participar de eventos locais.",
+                        "answer_start": 85
+                    }
+                ]
+            },
+            {
+                "id": "00013",
+                "is_impossible": false,
+                "question": "Qual é uma característica notável de São Paulo?",
+                "answers": [
+                    {
+                        "text": "São Paulo é conhecida por seu trânsito intenso e por ter uma grande diversidade de restaurantes.",
+                        "answer_start": 158
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Recentemente, comecei a aprender a cozinhar pratos internacionais. Meus favoritos até agora incluem sushi, tacos e lasanha. Também gosto de experimentar diferentes tipos de cafés especiais.",
+        "qas": [
+            {
+                "id": "00014",
+                "is_impossible": false,
+                "question": "O que eu comecei a aprender recentemente?",
+                "answers": [
+                    {
+                        "text": "Recentemente, comecei a aprender a cozinhar pratos internacionais.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00015",
+                "is_impossible": false,
+                "question": "Quais são alguns dos meus pratos favoritos?",
+                "answers": [
+                    {
+                        "text": "Meus favoritos até agora incluem sushi, tacos e lasanha.",
+                        "answer_start": 67
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tenho um hobby de colecionar moedas antigas. Meu acervo inclui moedas de várias épocas e países, com destaque para algumas peças raras da era imperial. Frequentemente, participo de feiras de colecionadores para encontrar novas adições para minha coleção.",
+        "qas": [
+            {
+                "id": "00016",
+                "is_impossible": false,
+                "question": "Qual é o meu hobby?",
+                "answers": [
+                    {
+                        "text": "Tenho um hobby de colecionar moedas antigas.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00017",
+                "is_impossible": false,
+                "question": "O que destaca o seu acervo de moedas?",
+                "answers": [
+                    {
+                        "text": "Meu acervo inclui moedas de várias épocas e países, com destaque para algumas peças raras da era imperial.",
+                        "answer_start": 45
+                    }
+                ]
+            },
+            {
+                "id": "00018",
+                "is_impossible": false,
+                "question": "Onde eu costumo procurar novas moedas para minha coleção?",
+                "answers": [
+                    {
+                        "text": "Frequentemente, participo de feiras de colecionadores para encontrar novas adições para minha coleção.",
+                        "answer_start": 152
+                    }
+                ]
+            }
+        ]
+    }
+]
